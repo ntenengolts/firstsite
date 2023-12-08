@@ -23,3 +23,7 @@ function setUserName() {
   myButton.onclick = function () {
     setUserName();
   };
+function multiply(1, 2) {
+  var result = num1 * num2;
+  return result;
+}
